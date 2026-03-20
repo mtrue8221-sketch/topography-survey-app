@@ -1,0 +1,7 @@
+{
+  "name": "GeoSurvey Pro",
+  "description": "A professional land administration and surveying tool for field data collection, topographic analysis, and mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
